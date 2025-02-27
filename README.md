@@ -122,7 +122,6 @@ ORDER BY Revenue DESC;
 ## **👥 Contributors**
 
 * **Your Name** \- 📊 Atharv  Chaudhari  
-* **Contributor Name** \- 🛠 Harshita Shinde
 
 💡 *Contributions are welcome\! Feel free to enhance and optimize queries.* 🚀
 
